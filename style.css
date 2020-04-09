@@ -1,0 +1,36 @@
+body{
+  font-size: 1.4rem;
+  font-family: 'SF UI Display', sans-serif;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+ul{
+  display: inline-block;
+  
+}
+
+li{
+  float: left;
+  margin: auto;
+  list-style: none;
+  padding: 15px;
+  border: 1px solid red;
+  background-color: red;
+  color: whitesmoke;
+}
+
+.square{
+  display: block;
+  margin: auto;
+  padding-top: 2px;
+  width: 700px;
+  height: 400px;
+  background-color: red;
+  color: aliceblue;
+  border: 1px solid red;
+  border-radius: 5px;
+}
